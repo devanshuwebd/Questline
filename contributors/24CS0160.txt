@@ -1,0 +1,5 @@
+Name: Chithra R
+UserName: Chithra582
+Role: Contributor
+Skills: UI/UX, Web Development
+Interests: front-end Development, Interactive Design
